@@ -3,7 +3,7 @@
 A project based learning activity for people who are getting started with Git and GitHub.
 
 
-You can play the game [here](https://Simbadeveloper.github.io/github-games/)
+You can play the game [here](https://github.com/jakesgordon/javascript-tetris)
 
 To play the game:
 1. Go to the **Settings** tab of this repository.
